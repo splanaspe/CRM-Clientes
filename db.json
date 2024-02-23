@@ -1,0 +1,24 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Pablo",
+      "apellido": "De la torre",
+      "email": "correo@correo.com",
+      "telefono": "123-123-1234",
+      "empresa": "Código Con Juan",
+      "puesto": "Full Stack Dev y Instructor",
+      "estado": false,
+      "id": "3"
+    },
+    {
+      "id": "3202",
+      "nombre": "Salvador",
+      "apellido": "Planas",
+      "email": "salvador.laboral@gmx.com",
+      "telefono": "435-324-2323",
+      "empresa": "Emergia",
+      "puesto": "Developer",
+      "estado": 1
+    }
+  ]
+}
